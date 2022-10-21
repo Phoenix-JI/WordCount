@@ -1,0 +1,16 @@
+/
+/books.cgi
+/book.cgi?id=11382
+/precart.cgi?id=11382
+/pages.cgi?isbn=0804756309&item=Preface_pages&page=1
+/pages.cgi?isbn=0804756309&item=Table_of_Contents_pages&page=1
+/pages.cgi?isbn=0804756309&item=Excerpt_from_the_Introduction_pages&page=1
+/pages.cgi?isbn=0804756309&item=Illustrations_pages&page=1
+/ancillary.cgi?isbn=0804756295;gvp=1
+/search/search.cgi?shortstop=no;category=subject&search=Literary%20Studies%20--%20Other
+/search/search.cgi?shortstop=no;category=subject&search=Anthropology%20--%20Race,%20Ethnicity,%20and%20Gender
+http://www.facebook.com/pages/Stanford-University-Press/173557950566
+/search/blogthis.cgi?search=0804756309
+/info/copyright.cgi
+/info/sitemap.cgi
+/info/contact.cgi

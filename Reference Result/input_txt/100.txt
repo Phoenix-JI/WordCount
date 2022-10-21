@@ -1,0 +1,13 @@
+#content
+#nav
+http://news.stanford.edu/
+http://news.stanford.edu/news/
+http://news.stanford.edu/news/staff/
+http://ucomm.stanford.edu/journalists/
+http://news.stanford.edu/about/
+http://visit.stanford.edu/plan/maps.html
+http://news.stanford.edu/sr/
+http://news.stanford.edu/sr/
+http://news.stanford.edu/about/contact.html
+http://stanfordwho.stanford.edu/
+http://news.stanford.edu/about/directions.html
